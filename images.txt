@@ -10,4 +10,5 @@
 # gitlab/gitlab-runner:latest
 # redis:latest
 # mysql:5.7
-mcr.microsoft.com/mssql/server:2019-latest
+# mcr.microsoft.com/mssql/server:2019-latest
+gitlab/gitlab-ce:17.3.1-ce.0
