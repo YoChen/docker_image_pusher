@@ -13,4 +13,5 @@
 # mcr.microsoft.com/mssql/server:2019-latest
 # gitlab/gitlab-ce:17.3.1-ce.0
 # gitlab/gitlab-ce:17.3.4-ce.0
-gitlab/gitlab-ce:17.3.5-ce.0
+# gitlab/gitlab-ce:17.3.5-ce.0
+nginx:latest
