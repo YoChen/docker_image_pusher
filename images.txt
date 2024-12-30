@@ -19,4 +19,4 @@
 # redis:alpine
 # grafana/grafana
 # prom/prometheus
-node:lts-sli
+node:lts-slim
