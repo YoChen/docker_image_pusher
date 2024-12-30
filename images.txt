@@ -19,4 +19,5 @@
 # redis:alpine
 # grafana/grafana
 # prom/prometheus
-node:lts-slim
+# node:lts-slim
+nginx:alpine
