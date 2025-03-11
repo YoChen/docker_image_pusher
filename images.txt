@@ -20,4 +20,5 @@
 # grafana/grafana
 # prom/prometheus
 # node:lts-slim
-nginx:alpine
+# nginx:alpine
+gitlab/gitlab-ce:17.3.5-ce.0
