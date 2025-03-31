@@ -27,4 +27,5 @@
 # gitlab/gitlab-ce:17.5.5-ce.0
 # mongo:4.2
 # mongo-express
-gitlab/gitlab-ce:17.9.2-ce.0
+# gitlab/gitlab-ce:17.9.2-ce.0
+maven:3.8-openjdk-21
