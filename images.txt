@@ -32,16 +32,16 @@
 # gitlab/gitlab-ce:17.9.2-ce.0
 # gitlab/gitlab-ce:17.10.3-ce.0
 # gitlab/gitlab-ce:17.11.3-ce.0
-mysql:5.7
-redis:7
-nginx:alpine
-rabbitmq:3.9-management
-elasticsearch:7.17.3
-logstash:7.17.3
-kibana:7.17.3
-mongo:4
-nacos/nacos-server:v2.1.0
-minio/minio:latest
-bitnami/kafka:latest
-seataio/seata-server:1.6.0
+# mysql:5.7
+# redis:7
+# nginx:alpine
+# rabbitmq:3.9-management
+# elasticsearch:7.17.3
+# logstash:7.17.3
+# kibana:7.17.3
+# mongo:4
+# nacos/nacos-server:v2.1.0
+# minio/minio:latest
+# bitnami/kafka:latest
+# seataio/seata-server:1.6.0
 xuxueli/xxl-job-admin:2.4.0
