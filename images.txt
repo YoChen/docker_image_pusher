@@ -44,4 +44,6 @@
 # minio/minio:latest
 # bitnami/kafka:latest
 # xuxueli/xxl-job-admin:2.4.0
-seataio/seata-server:2.0.0
+# seataio/seata-server:2.0.0
+emqx/emqx:latest
+timescale/timescaledb-ha:pg15-latest
